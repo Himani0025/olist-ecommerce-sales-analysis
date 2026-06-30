@@ -35,10 +35,10 @@ to identify growth opportunities and operational bottlenecks.
    model for real-time filtering
 
 ## Dashboard Preview
-![Dashboard](outputs/dashboard_screenshot.png)
+![Dashboard](outputs/dashboard_screenshot.png.png)
 
 ## How to View the Interactive Dashboard
-Download `powerbi/olist_dashboard.pbix` and open it in 
+Download `powerbi/Olist_Dashboard.pbix` and open it in 
 [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) (free)
 
 ## Project Structure
